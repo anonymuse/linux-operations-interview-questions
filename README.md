@@ -13,11 +13,16 @@ issues or email messages. The majority of the questions were collected from:
 
 ## <a name='toc'>Table of Contents</a>
 
-	1. [General Questions](#general) 1. [Simple Linux Questions](#simple) 1.
-[Medium Linux Questions](#medium) 1. [Hard Linux Questions](#hard) 1. [Expert
-Linux Questions](#expert) 1. [Networking Questions](#network) 1. [DevOp
-Questions](#devop) 1. [Fun Questions](#fun) 1. [Demo Time](#demo) 1. [Other
-Great References](#references)
+  1. [General Questions](#general) 
+  1. [Simple Linux Questions](#simple)
+  1. [Medium Linux Questions](#medium) 
+  1. [Hard Linux Questions](#hard)
+  1. [Expert Linux Questions](#expert)
+  1. [Networking Questions](#network)
+  1. [DevOps Questions](#devop) 
+  1. [Fun Questions](#fun) 
+  1. [Demo Time](#demo)
+  1. [Other Great References](#references)
 
 
 ####[[⬆]](#toc) <a name='contributors'>Contributors:</a>
