@@ -7,7 +7,7 @@ The majority of the questions were collected from:
 
 * https://github.com/gurmeet1109/docgurmeet/tree/master/InterviewQuestionsSamples
 * https://github.com/kylejohnson/linux-sysadmin-interview-questions/blob/master/test.md
-* https://github.com/anonymuse/linux-sysadmin-interview-questions
+* https://github.com/chassing/linux-sysadmin-interview-questions
 
 
 ## <a name='toc'>Table of Contents</a>
