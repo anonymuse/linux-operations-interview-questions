@@ -3,10 +3,15 @@ Linux System Administrator/DevOp Interview Questions
 
 A collection of linux sysadmin/devop interview questions. Feel free to contribute via pull requests, issues or email messages.
 
+The majority of the questions were collected from:
+
+* https://github.com/gurmeet1109/docgurmeet/tree/master/InterviewQuestionsSamples
+* https://github.com/kylejohnson/linux-sysadmin-interview-questions/blob/master/test.md
+* https://github.com/anonymuse/linux-sysadmin-interview-questions
+
 
 ## <a name='toc'>Table of Contents</a>
 
-  1. [Contributors](#contributors)
   1. [General Questions](#general)
   1. [Simple Linux Questions](#simple)
   1. [Medium Linux Questions](#medium)
@@ -21,19 +26,7 @@ A collection of linux sysadmin/devop interview questions. Feel free to contribut
 
 ####[[⬆]](#toc) <a name='contributors'>Contributors:</a>
 
-* [moregeek](https://github.com/moregeek)
-* [typhonius](https://github.com/typhonius)
-* martin
-* [negesti](https://github.com/negesti)
-* peter
-* [andreashappe](https://github.com/andreashappe)
-* [quatrix](https://github.com/quatrix)
-* [biyanisuraj](https://github.com/biyanisuraj)
-
-The majority of the questions were collected from:
-
-* https://github.com/gurmeet1109/docgurmeet/tree/master/InterviewQuestionsSamples
-* https://github.com/kylejohnson/linux-sysadmin-interview-questions/blob/master/test.md
+* [anonymuse](https://github.com/anonymuse)
 
 
 ####[[⬆]](#toc) <a name='general'>General Questions:</a>
@@ -174,6 +167,15 @@ The majority of the questions were collected from:
 * ./configure shows an error that libfoobar is missing on your system, how could you fix this, what could be wrong?
 * Advantages/disadvantages of script vs compiled program.
 * What is the difference between fork and thread? And parent and child process in fork system call?
+* What's the relationship between continuous delivery and DevOps
+* How is securing a cloud environment different than a hardware environment?
+* How do you handle prioritizing your tasks when you're interrupted with ah-hoc issues?
+* What are the important aspects of a system of continous integration and depolyment?
+* How would you deal with the eventual consistency model that Amazon Web Services uses in the cloud model?
+* Tell me about one of your favorite command line tools, such as nc, curl, tail, and something interesting that you'v done with that utility.
+* How do you handle revision control?
+* In Git, what's the difference between merge and rebase?
+* Describe a pipeline for updating Apache to 100 cloud servers. How would that evolve for 1000 servers?
 
 
 ####[[⬆]](#toc) <a name='fun'>Fun Questions:</a>
@@ -183,6 +185,7 @@ The majority of the questions were collected from:
 * I've rebooted a remote server but after 10 minutes I'm still not able to ssh into it, what can be wrong?
 * If you were stuck on a desert island with only 5 command-line utilities, which would you choose?
 * You come across a random computer and it appears to be a command console for the universe. What is the first thing you type?
+* Tell me about a creative way that you've used SSH?
 
 
 ####[[⬆]](#toc) <a name='demo'>Demo Time:</a>
